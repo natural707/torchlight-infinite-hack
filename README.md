@@ -1,6 +1,6 @@
-# Map Reveal & ESP
+# Zoom, Map Reveal & ESP
 
-This is my private map reveal and esp, 
+This is my private zoom/map reveal and esp, 
 add me on discord (natural707) with a note and $5 to spare!
 I'll probably add more stuff to it this season 15
 
